@@ -1,7 +1,7 @@
 Articulatio: The Jointed Structure Where Sense Moves
 ====================================================
 
-[ARTICULATION] (https://github.com/atiface/Articulatio)
+[ARTICULATION] (https://github.com/antiface/Articulatio)
 
 #S^3
 * SENSE
