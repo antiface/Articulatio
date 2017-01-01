@@ -1,5 +1,6 @@
 Articulatio: The Jointed Structure Where Sense Moves
 ====================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.227307.svg)](https://doi.org/10.5281/zenodo.227307)
 
 [ARTICULATION] (https://github.com/antiface/Articulatio/tree/master/Articulation)
 
